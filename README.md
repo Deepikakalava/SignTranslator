@@ -1,1 +1,1 @@
-run all.py file with streamlit run all.py
+run all.py file with `streamlit run all.py`
